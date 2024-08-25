@@ -17,7 +17,7 @@ https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / config
 
 ## Ferramentas e tecnologias
 <div style="display: flex;">
-  <img style="margin-right: 20px;" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img style="margin-right: 20px; display: block;" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
