@@ -3,19 +3,9 @@
 ###### Sobre o Eduardo
 7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
 
-### Detalhes
-
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
-### Projetos
-
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
-
-
-### Contatos
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 [img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
