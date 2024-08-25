@@ -15,6 +15,9 @@ https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / config
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioKoop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Ferramentas e tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+
 ## Contatos:
 
 <div>
