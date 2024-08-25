@@ -16,7 +16,7 @@ https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / config
 </div>
 
 ## Ferramentas e tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
