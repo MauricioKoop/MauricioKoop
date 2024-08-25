@@ -6,8 +6,8 @@
 Serviços de freelances realizados: 
 <br>https://fernandarusveer.com.br/ - Website comercial biografia e prestação de serviços / layout e desenvolvimento
 <br>https://blog.mfitpersonal.com.br/ - Blog Mfit Personal / desenvolvimento
-<br>https://blog.mfitpersonal.pt/ - Blog Mfit Personal versão Portugal / desenvolvimento clone
-https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / configurado através do plugin 'Echo Knowledge Base'.
+<br>https://blog.mfitpersonal.pt/ - Blog Mfit Personal versão Portugal / desenvolvimento
+<br>https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / configurado através do plugin 'Echo Knowledge Base'.
 
 <div>
 <a href="https://github.com/MauricioKoop">
