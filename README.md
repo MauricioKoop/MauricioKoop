@@ -1,5 +1,7 @@
 ## Olá 👋
 
+![Snake animation](https://github.com/MauricioKoop/MauricioKoop/blob/output/github-contribution-grid-snake.svg)
+
 ###### Sobre o Eduardo
 1 ano e 3 meses trabalhando como auxiliar de programação, no ramo de e-commerce. Atualmente trabalho com desenvolvimento web, as principais ferramentas que utilizo são:  wordpress, elementor e figma.
 
