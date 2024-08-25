@@ -16,7 +16,7 @@ https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / config
 </div>
 
 ## Ferramentas e tecnologias
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; colmun-gap: 20px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
