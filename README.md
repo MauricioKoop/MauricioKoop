@@ -5,8 +5,8 @@
 
 Serviços de freelances realizados: 
 https://fernandarusveer.com.br/ - Website comercial biografia e prestação de serviços / layout e desenvolvimento
-https://blog.mfitpersonal.com.br/ - Blog Mfit Personal / desenvolvimento
-https://blog.mfitpersonal.pt/ - Blog Mfit Personal versão Portugal / desenvolvimento clone
+<br>https://blog.mfitpersonal.com.br/ - Blog Mfit Personal / desenvolvimento
+<br>https://blog.mfitpersonal.pt/ - Blog Mfit Personal versão Portugal / desenvolvimento clone
 https://ajuda.mfitpersonal.com.br/ - Base de conhecimento Mfit Personal / configurado através do plugin 'Echo Knowledge Base'.
 
 <div>
